@@ -8,17 +8,17 @@ import NewsCard from '../components/NewsCard';
 const Home = () => {
   const sliderImages = [
     {
-      src: "public/20231110_140856.jpg",
+      src: "20231110_140856.jpg",
       alt: "Students in classroom",
       caption: "Nurturing young minds through quality education"
     },
     {
-      src: "public/ADMIN BLOCK.jpg",
+      src: "ADMIN BLOCK.jpg",
       alt: "School sports day",
       caption: "Promoting physical fitness and team spirit"
     },
     {
-      src: "public/20230215_173051.jpg",
+      src: "20230215_173051.jpg",
       alt: "Science laboratory",
       caption: "State-of-the-art facilities for hands-on learning"
     }
@@ -29,19 +29,19 @@ const Home = () => {
       title: "Annual Sports Day 2025",
       date: "April 15, 2025",
       summary: "Join us for our annual sports day celebration featuring track events, team sports, and special performances by students.",
-      imageUrl: "public/BASKET BALL BOYS.jpg"
+      imageUrl: "BASKET BALL BOYS.jpg"
     },
     {
       title: "Science Exhibition Winners",
       date: "March 28, 2025",
       summary: "Congratulations to our students who won top prizes at the Regional Science Exhibition with their innovative projects.",
-      imageUrl: "public/20221202_101817.jpg"
+      imageUrl: "20221202_101817.jpg"
     },
     {
       title: "New Computer Lab Inauguration",
       date: "March 10, 2025",
       summary: "We're excited to announce the inauguration of our new state-of-the-art computer laboratory equipped with the latest technology.",
-      imageUrl: "public/20221202_101027.jpg"
+      imageUrl: "20221202_101027.jpg"
     }
   ];
 
